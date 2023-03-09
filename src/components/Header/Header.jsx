@@ -1,7 +1,7 @@
 import React from 'react'
 import './header.css'
 import {FaPaperPlane} from "react-icons/fa"
-import Navbar from '../Navbar/navbar'
+import Navbar from '../Navbar/Navbar'
 
 const Header = () => {
   return (
