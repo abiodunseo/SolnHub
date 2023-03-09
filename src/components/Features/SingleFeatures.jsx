@@ -1,7 +1,7 @@
 import React from 'react'
 import { useState } from 'react';
 import {BsPlusLg} from 'react-icons/bs'
-import './Features.css'
+import './features.css'
 
 const gradient = "url(#blue-gradient)";
 
